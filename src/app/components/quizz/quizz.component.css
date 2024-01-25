@@ -2,8 +2,6 @@
   width: 80%;
   margin: auto;
   margin-top: 20px;
-
-  border: 1px solid blueviolet;
 }
 
 .quizz_logo {
@@ -35,7 +33,7 @@
   margin-bottom: 20px;
 }
 
-.quizz_questions>h3 {}
+/* .quizz_questions>h3 {} */
 
 .quizz_options {
   display: flex;
